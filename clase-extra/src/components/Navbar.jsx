@@ -1,6 +1,8 @@
 const Navbar = () => {
     return (
-        <div>Navbar</div>
+        <nav>
+            <h1>Conflicting Navbar</h1>
+        </nav>
     )
 }
 
